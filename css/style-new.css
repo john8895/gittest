@@ -1,0 +1,205 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600");
+@import url("https://fonts.googleapis.com/css?family=Zilla+Slab:300,400,600");
+html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote,
+pre, form, fieldset, table, th, td {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+body, table, td, a, p {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  font-family: 'Microsoft JhengHei', Helvetica, Arial, sans-serif;
+}
+
+table, td {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  border-collapse: collapse;
+}
+
+body {
+  background-color: #fff;
+}
+
+img a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+
+.okki-inrtro-title {
+  text-align: left;
+}
+
+.bg-gray1 {
+  padding-top: 1.5rem;
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.bg-gray2 {
+  padding-top: 1.5rem;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+td.real-sense {
+  padding: 3em 1em;
+}
+
+td.okki-user {
+  padding: 3em 2.5em;
+}
+
+table.okki-sense h2, .okki-sense-h2 {
+  text-align: left;
+  font-size: 21px;
+  color: #9b0d0d;
+  margin-bottom: 0.5rem;
+}
+
+table.okki-sense p {
+  margin-top: 0;
+}
+
+.footer a {
+  color: #c2c2c2;
+}
+
+.post-body {
+  width: 660px;
+  max-width: 100%;
+}
+
+.edm-body {
+  padding: 0;
+}
+
+.edm-body .img-theOne {
+  width: 100% !important;
+  margin: auto;
+  max-width: 100%;
+  display: block;
+}
+
+.edm-body.sec-header {
+  background-color: #000;
+}
+
+.edm-body .logo {
+  text-align: left;
+}
+
+.edm-body.sec-01 {
+  display: block;
+}
+
+.edm-body.sec-02 {
+  background-color: #fcefe2;
+}
+
+.edm-body .text-body {
+  max-width: 660px;
+  padding: 30px 50px;
+}
+
+.edm-body p {
+  font-size: 17px;
+  line-height: 1.8;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.edm-body .h1, .edm-body .h2 {
+  font-weight: bold;
+}
+
+.edm-body .h1 {
+  font-size: 22px;
+}
+
+.edm-body .h2 {
+  font-size: 20px;
+}
+
+.edm-body .color-red {
+  color: #f00;
+}
+
+.edm-body .textMark-1 {
+  color: #aa0505;
+  font-weight: bold;
+}
+
+.edm-body .multiple-img img {
+  margin-bottom: 30px;
+}
+
+.btn-act {
+  color: #fff;
+  background-color: #CC0000;
+  padding: 11px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  margin: 30px 0;
+  display: inline-block;
+  font-size: 19px;
+}
+
+.footer-logo-block {
+  background-color: #000;
+}
+
+.distMap-body {
+  background-color: #555;
+}
+
+.distMap {
+  padding: 1em 1em 0;
+}
+
+.distMap.j-header {
+  padding-top: 20px;
+}
+
+.distMap ul {
+  margin-bottom: 20px;
+}
+
+.distMap .address-cpation {
+  font-size: 17px;
+}
+
+.distMap ul.address li {
+  line-height: 1.6;
+}
+
+.distMap.master-address {
+  padding: 5px 30px 0;
+}
+
+.distMap .dist-td-left {
+  padding-left: 10px;
+}
+
+.distMap .dist-td-right {
+  padding-right: 10px;
+}
+/*# sourceMappingURL=style-new.css.map */
